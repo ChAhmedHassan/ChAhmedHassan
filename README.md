@@ -57,7 +57,6 @@
 - **Email:** [ahmed.amt.taha@gmail.com](mailto:ahmed.amt.taha@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/ahmedhassan](https://www.linkedin.com/in/ch-ahmed-hassan-9343b838a/)
 - **Portfolio:** [github.com/ChAhmedHassan](https://github.com/ChAhmedHassan) 
-- **Portfolio:** [ahmedhassan.github.io](https://ahmedhassan.github.io)
 
 ---
 
