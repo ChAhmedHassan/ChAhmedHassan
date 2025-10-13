@@ -1,4 +1,4 @@
-![banner](https://github.com/ChAhmedHassan/ChAhmedHassan/blob/main/Banner.jpg?raw=true)     ![coding GIF](https://github.com/ChAhmedHassan/ChAhmedHassan/blob/main/coding.gif?raw=true)
+![banner](https://github.com/ChAhmedHassan/ChAhmedHassan/blob/main/Banner.jpg?raw=true) 
 # Hi, I’m Ch Ahmed Hassan 👋 
 
 > "Consistency, hard work, and faith always pay off."
@@ -44,6 +44,7 @@
 | Student Performance Analyzer | A project analyzing students’ grades and attendance | Python, Pandas |
 | Portfolio Website | Personal website showcasing my profile and projects | HTML, CSS, JS |
 | Data Cleaning Scripts | Scripts to clean and preprocess raw CSV data | Python, NumPy |
+- The Above Projects / Experience Table is just a Sample Data.
 
 ---
 
