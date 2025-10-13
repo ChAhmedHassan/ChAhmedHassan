@@ -1,0 +1,69 @@
+# Hi, I’m Ahmed Hassan 👋  
+> "Consistency, hard work, and faith always pay off."
+
+## 🧭 About Me
+**Full name:** Ahmed Hassan  
+**University & Department:** Punjab University College of Information Technology (PUCIT), Department of Data Science  
+**Intro:** I am a 1st-year student studying BS Data Science. I enjoy learning about data science, web development, and building small projects.  
+**Interests & Goals:**  
+- Learn advanced Python and machine learning.  
+- Build portfolio projects and contribute to open source.
+
+---
+
+## 🛠️ Skills
+- Python (basic → intermediate)  
+- Data Science / Pandas / NumPy  
+- Web Development (HTML, CSS, JavaScript)  
+- Git & GitHub  
+- SQL / Databases  
+- 💡 Other: Machine Learning, Bash
+
+---
+
+## 📂 My GitHub Repositories
+> Here are some of my repositories (click to open):
+
+- [my-first-repo-1](https://github.com/ChAhmedHassan/my-first-repo-1) — My first GitHub repository for learning Git & GitHub basics.  
+- [markdown-assignment](https://github.com/ChAhmedHassan/markdown-assignment) — Markdown practice assignment with profile README.  
+- [data-science-projects](https://github.com/ChAhmedHassan/data-science-projects) — Beginner-level data science exercises and projects.
+
+---
+
+## 📊 GitHub Stats (optional)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChAhmedHassan&show_icons=true&theme=radical)
+
+---
+
+## ✨ Projects / Experience (table)
+| Project | Description | Tech |
+|---|---:|:---|
+| Student Performance Analyzer | A project analyzing students’ grades and attendance | Python, Pandas |
+| Portfolio Website | Personal website showcasing my profile and projects | HTML, CSS, JS |
+| Data Cleaning Scripts | Scripts to clean and preprocess raw CSV data | Python, NumPy |
+
+---
+
+## ✅ Goals Checklist
+- [x] Create GitHub profile README  
+- [ ] Add 3 projects to portfolio  
+- [ ] Learn Intermediate Python  
+- [ ] Join open-source contribution
+
+---
+
+## 📬 Contact Me
+- **Email:** [ahmedhassan@example.com](mailto:ahmedhassan@example.com)  
+- **LinkedIn:** [linkedin.com/in/ahmedhassan](https://www.linkedin.com/in/ahmedhassan)  
+- **Portfolio:** [ahmedhassan.github.io](https://ahmedhassan.github.io)
+
+---
+
+## 🧭 Table of Contents
+- [About Me](#-about-me)  
+- [Skills](#-skills)  
+- [My GitHub Repositories](#-my-github-repositories)  
+- [GitHub Stats](#-github-stats-optional)  
+- [Projects / Experience](#-projects--experience-table)  
+- [Goals Checklist](#-goals-checklist)  
+- [Contact Me](#-contact-me)
