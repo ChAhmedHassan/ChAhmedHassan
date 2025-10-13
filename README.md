@@ -2,18 +2,19 @@
 > "Consistency, hard work, and faith always pay off."
 
 ## 🧭 About Me
-**Full name:** Ahmed Hassan  
+**Full name:** Ch Ahmed Hassan  
 **University & Department:** Punjab University College of Information Technology (PUCIT), Department of Data Science  
-**Intro:** I am a 1st-year student studying BS Data Science. I enjoy learning about data science, web development, and building small projects.  
+**Intro:** I am a 2nd-year student (3rd-Semester) studying BS Data Science. I enjoy learning about data science, web development, and building small projects.  
 **Interests & Goals:**  
-- Learn advanced Python and machine learning.  
+- Learn Advanced Python and Machine Learning.  
 - Build portfolio projects and contribute to open source.
-
+- I have a deep interest in Cricket and Politics (Current Affairs).
+- I love to play Hard Ball Cricket as a professional.
 ---
 
 ## 🛠️ Skills
 - Python (basic → intermediate)  
-- Data Science / Pandas / NumPy  
+- Data Science
 - Web Development (HTML, CSS, JavaScript)  
 - Git & GitHub  
 - SQL / Databases  
@@ -53,8 +54,8 @@
 ---
 
 ## 📬 Contact Me
-- **Email:** [ahmedhassan@example.com](mailto:ahmedhassan@example.com)  
-- **LinkedIn:** [linkedin.com/in/ahmedhassan](https://www.linkedin.com/in/ahmedhassan)  
+- **Email:** [ahmed.amt.taha@gmail.com](mailto:ahmed.amt.taha@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/ahmedhassan](https://www.linkedin.com/in/ch-ahmed-hassan-9343b838a/)  
 - **Portfolio:** [ahmedhassan.github.io](https://ahmedhassan.github.io)
 
 ---
