@@ -1,4 +1,6 @@
-# Hi, I’m Ch Ahmed Hassan 👋  
+# Hi, I’m Ch Ahmed Hassan 👋 
+![Coding GIF](https://i.imgur.com/qgQU3eP.gif)
+
 > "Consistency, hard work, and faith always pay off."
 
 ## 🧭 About Me
