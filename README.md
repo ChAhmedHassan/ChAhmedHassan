@@ -1,4 +1,4 @@
-![banner](https://github.com/ChAhmedHassan/ChAhmedHassan/blob/main/Banner.jpg?raw=true)      ![coding GIF]()
+![banner](https://github.com/ChAhmedHassan/ChAhmedHassan/blob/main/Banner.jpg?raw=true)
 # Hi, I’m Ch Ahmed Hassan 👋 
 
 > "Consistency, hard work, and faith always pay off."
@@ -15,7 +15,7 @@
 ---
 
 ## 🛠️ Skills
-- Python (basic → intermediate)  
+- Python (basic → intermediate)            ![coding GIF]()
 - Data Science
 - Web Development (HTML, CSS, JavaScript)  
 - Git & GitHub  
