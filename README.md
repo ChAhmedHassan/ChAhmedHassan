@@ -1,4 +1,5 @@
 # Hi, I’m Ch Ahmed Hassan 👋 
+![banner](https://github.com/ChAhmedHassan/ChAhmedHassan/blob/main/Banner.jpg?raw=true)
 
 > "Consistency, hard work, and faith always pay off."
 
