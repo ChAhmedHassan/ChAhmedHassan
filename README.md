@@ -1,4 +1,4 @@
-![banner](https://github.com/ChAhmedHassan/ChAhmedHassan/blob/main/Banner.jpg?raw=true)
+![banner](https://github.com/ChAhmedHassan/ChAhmedHassan/blob/main/Banner.jpg?raw=true)      ![coding GIF]()
 # Hi, I’m Ch Ahmed Hassan 👋 
 
 > "Consistency, hard work, and faith always pay off."
