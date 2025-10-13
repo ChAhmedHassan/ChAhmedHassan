@@ -8,8 +8,8 @@
 **Interests & Goals:**  
 - Learn Advanced Python and Machine Learning.  
 - Build portfolio projects and contribute to open source.
-- I have a deep interest in Cricket and Politics (Current Affairs).
-- I love to play Hard Ball Cricket as a professional.
+- I have a deep interest in Cricket 🏏 and Politics (Current Affairs).
+- I love to play Hard Ball Cricket 🏏 as a professional.
 ---
 
 ## 🛠️ Skills
@@ -25,9 +25,9 @@
 ## 📂 My GitHub Repositories
 > Here are some of my repositories (click to open):
 
-- [my-first-repo](https://github.com/ChAhmedHassan/my-first-repo) — My first GitHub repository for learning Git & GitHub basics.  
+- [my-first-repo](https://github.com/ChAhmedHassan/my-first-repo) — My first GitHub repository for learning Git & GitHub basics.
+- [project_1](https://github.com/ChAhmedHassan/Project_1.git) — Beginner-level exercises and projects. 
 - [ChAhmedHassan](https://github.com/ChAhmedHassan/ChAhmedHassan.git) — Markdown practice assignment with profile README.  
-- [project_1](https://github.com/ChAhmedHassan/Project_1.git) — Beginner-level exercises and projects.
 
 ---
 
