@@ -18,14 +18,14 @@
 - Web Development (HTML, CSS, JavaScript)  
 - Git & GitHub  
 - SQL / Databases  
-- 💡 Other: Machine Learning, Bash
+- 💡 Other: Machine Learning (not yet), Bash
 
 ---
 
 ## 📂 My GitHub Repositories
 > Here are some of my repositories (click to open):
 
-- [my-first-repo-1](https://github.com/ChAhmedHassan/my-first-repo-1) — My first GitHub repository for learning Git & GitHub basics.  
+- [my-first-repo](https://github.com/ChAhmedHassan/my-first-repo) — My first GitHub repository for learning Git & GitHub basics.  
 - [markdown-assignment](https://github.com/ChAhmedHassan/markdown-assignment) — Markdown practice assignment with profile README.  
 - [data-science-projects](https://github.com/ChAhmedHassan/data-science-projects) — Beginner-level data science exercises and projects.
 
