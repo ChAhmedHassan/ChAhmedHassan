@@ -26,7 +26,7 @@
 > Here are some of my repositories (click to open):
 
 - [my-first-repo](https://github.com/ChAhmedHassan/my-first-repo) — My first GitHub repository for learning Git & GitHub basics.  
-- [markdown-assignment](https://github.com/ChAhmedHassan/markdown-assignment) — Markdown practice assignment with profile README.  
+- [ChAhmedHassan](https://github.com/ChAhmedHassan/ChAhmedHassan.git) — Markdown practice assignment with profile README.  
 - [project_1](https://github.com/ChAhmedHassan/Project_1.git) — Beginner-level exercises and projects.
 
 ---
