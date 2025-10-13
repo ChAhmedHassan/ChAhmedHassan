@@ -15,7 +15,7 @@
 ---
 
 ## 🛠️ Skills
-- Python (basic → intermediate)            ![coding GIF]()
+- Python (basic → intermediate)            ![coding GIF](https://github.com/ChAhmedHassan/ChAhmedHassan/blob/main/coding.gif?raw=true)
 - Data Science
 - Web Development (HTML, CSS, JavaScript)  
 - Git & GitHub  
