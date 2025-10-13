@@ -4,7 +4,7 @@
 ## 🧭 About Me
 **Full name:** Ch Ahmed Hassan  
 **University & Department:** Punjab University College of Information Technology (PUCIT), Department of Data Science  
-**Intro:** I am a 2nd-year student (3rd-Semester) studying BS Data Science. I enjoy learning about data science, web development, and building small projects.  
+**Intro:** I am a 2nd-year student (3rd-Semester) studying BS Data Science. I enjoy learning about data science, web development, and building small projects. I love to work for society and create a positive role.
 **Interests & Goals:**  
 - Learn Advanced Python and Machine Learning.  
 - Build portfolio projects and contribute to open source.
