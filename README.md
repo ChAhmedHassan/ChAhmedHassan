@@ -27,7 +27,7 @@
 
 - [my-first-repo](https://github.com/ChAhmedHassan/my-first-repo) — My first GitHub repository for learning Git & GitHub basics.  
 - [markdown-assignment](https://github.com/ChAhmedHassan/markdown-assignment) — Markdown practice assignment with profile README.  
-- [data-science-projects](https://github.com/ChAhmedHassan/data-science-projects) — Beginner-level data science exercises and projects.
+- [project_1](https://github.com/ChAhmedHassan/Project_1.git) — Beginner-level exercises and projects.
 
 ---
 
