@@ -31,7 +31,7 @@
 - [project_1](https://github.com/ChAhmedHassan/Project_1.git) — Beginner-level exercises and projects. 
 - [ChAhmedHassan](https://github.com/ChAhmedHassan/ChAhmedHassan.git) — Markdown practice assignment with profile README.  
 
-
+---
 
 ## 📊 GitHub Stats (optional)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChAhmedHassan&show_icons=true&theme=radical)
